@@ -1,8 +1,8 @@
-let caf = document.getElementById("caf");
+// let caf = document.getElementById("caf");
 
-function changeCaf(){
-    caf.textContent = "clicked";
-    caf.style.color = "green";
-}
+// function changeCaf(){
+//     caf.textContent = "clicked";
+//     caf.style.color = "green";
+// }
 
-caf.onclick = changeCaf;
+// caf.onclick = changeCaf;
